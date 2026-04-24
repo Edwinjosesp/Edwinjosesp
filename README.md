@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.postimg.cc/dVHwHj7V/solar-system-banner-optimized.png" alt="Edwin's Developer Solar System" width="800">
-</p>
-
 ## Hi there 👋
 # Hi there! I'm Edwin Suarez 👋 
 
