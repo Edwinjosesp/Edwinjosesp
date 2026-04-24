@@ -1,5 +1,10 @@
 # Hi there! I'm Edwin Suarez 👋 
 
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDF6dHl0Z2dmemZuMXVzNzJmNmg2eDRjZjRzYWNnNXhhZHhqM3JuNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SVCSsoKU5v6ZJLk07n/giphy.gif" alt="Centered GIF">
+</p>
+
+
 ### 👨‍💻 Systems Engineering Student | Tech Enthusiast
 📍 Based in Puerto Colombia, Atlántico 🇨🇴
 
@@ -42,3 +47,4 @@ I am passionate about **optimizing and innovating ideas**. I love participating 
 
 ### 📫 Let's Connect!
 - Feel free to explore my repositories or reach out for collaboration on innovative projects.
+
