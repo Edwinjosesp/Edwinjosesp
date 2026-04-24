@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi there! I'm Edwin Suarez 👋 
 
 ### 👨‍💻 Systems Engineering Student | Tech Enthusiast
